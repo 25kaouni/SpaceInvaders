@@ -17,6 +17,5 @@ Use the Bulwarks to block aliens' bullets (they will block yours, too, though).
 The game ends either when you defeat all the aliens or you get shot by one.
 
 Best of luck, and have fun!
-- Nik
 
 report any bugs here: https://bit.ly/3AoijGT

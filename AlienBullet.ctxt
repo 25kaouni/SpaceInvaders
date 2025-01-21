@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AlienBullet
+comment1.params=alien_arg\ row
+comment1.target=AlienBullet(Alien,\ int)
+comment2.params=st\ av
+comment2.target=AlienBullet(int,\ int)
+comment3.params=st\ av\ d
+comment3.target=AlienBullet(int,\ int,\ becker.robots.Direction)
+comment4.params=
+comment4.target=void\ create_beam()
+comment5.params=
+comment5.target=void\ travel()
+comment6.params=
+comment6.target=void\ smash_into_bulwark()
+numComments=7

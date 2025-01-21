@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Bullet
+comment1.params=player_arg
+comment1.target=Bullet(Player)
+comment2.params=alien_arg
+comment2.target=Bullet(Alien)
+comment3.params=st\ av
+comment3.target=Bullet(int,\ int)
+comment4.params=st\ av\ d
+comment4.target=Bullet(int,\ int,\ becker.robots.Direction)
+comment5.params=
+comment5.target=void\ create_beam()
+comment6.params=
+comment6.target=void\ travel()
+comment7.params=
+comment7.target=void\ smash_into_bulwark()
+numComments=8

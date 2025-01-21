@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Bulwark
+comment1.params=city\ st\ ave
+comment1.target=Bulwark(becker.robots.City,\ int,\ int)
+comment2.params=st\ ave
+comment2.target=Bulwark(int,\ int)
+comment3.params=st\ ave
+comment3.target=void\ init_wall(int,\ int)
+comment4.params=icon
+comment4.target=void\ set_all_icons(becker.robots.icons.Icon)
+numComments=5

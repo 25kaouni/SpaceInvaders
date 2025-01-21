@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=
+comment1.target=void\ main()
+comment2.params=row
+comment2.target=void\ aliens_start(int)
+comment3.params=row\ index
+comment3.target=void\ delete_alien(int,\ int)
+comment4.params=
+comment4.target=void\ set_background()
+comment5.params=
+comment5.target=void\ end()
+comment6.params=
+comment6.target=void\ death()
+comment7.params=m_seconds
+comment7.target=void\ pause(int)
+numComments=8

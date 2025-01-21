@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Alien
+comment1.params=st\ av\ row\ index
+comment1.target=Alien(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ shoot()
+comment3.params=
+comment3.target=void\ die()
+comment4.params=to_the_left
+comment4.target=void\ move_over(boolean)
+comment5.params=time_to_wait
+comment5.target=void\ get_moving(int)
+numComments=6
